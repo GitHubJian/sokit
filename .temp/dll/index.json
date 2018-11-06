@@ -1,0 +1,16 @@
+{
+  "vendor": {
+    "js": "/js/vendor.js",
+    "css": "/css/vendor.css"
+  },
+  "": {
+    "ttf": [
+      "/image/element-icons.ttf",
+      "/image/fontawesome-webfont.ttf"
+    ],
+    "eot": "/image/fontawesome-webfont.eot",
+    "svg": "/image/fontawesome-webfont.svg",
+    "woff": "/image/fontawesome-webfont.woff",
+    "woff2": "/image/fontawesome-webfont.woff2"
+  }
+}
